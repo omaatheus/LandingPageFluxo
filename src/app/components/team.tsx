@@ -23,8 +23,8 @@ export const Team = () => {
         </div>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-gray-900">Davi Fontanini</h2>
-            <h3 className="text-gray-500 mb-3">Desenvolvedor Backend</h3>
-            <p className="mb-4">Desenvolvedor backend com uma sólida compreensão das tecnologias e práticas essenciais para a construção de sistemas.</p>
+            <h3 className="text-gray-500 mb-3">Desenvolvedor Back-end</h3>
+            <p className="mb-4">Desenvolvedor Back-end com uma sólida compreensão das tecnologias e práticas essenciais para a construção de sistemas.</p>
             <span className="inline-flex">
               <a href="https://www.instagram.com/fontanini_019/" className="text-gray-500" rel="noopener noreferrer" target="_blank">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -51,8 +51,8 @@ export const Team = () => {
         /></div>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-gray-900">Giovanni Albino</h2>
-            <h3 className="text-gray-500 mb-3">Desenvolvedor Frontend</h3>
-            <p className="mb-4">Desenvolvedor experiente e com paixão pela criação de experiências digitais envolventes e intuitivas.</p>
+            <h3 className="text-gray-500 mb-3">Desenvolvedor Front-end Web</h3>
+            <p className="mb-4">Desenvolvedor Front-end experiente e com paixão pela criação de experiências digitais envolventes e intuitivas.</p>
             <span className="inline-flex">
               <a href="https://www.instagram.com/gio_sxis/" className="text-gray-500" rel="noopener noreferrer" target="_blank">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -78,7 +78,7 @@ export const Team = () => {
         /></div>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-gray-900">Isabella Caramigo</h2>
-            <h3 className="text-gray-500 mb-3">Desenvolvedora Frontend</h3>
+            <h3 className="text-gray-500 mb-3">Desenvolvedora Front-end Mobile</h3>
             <p className="mb-4">Desenvolvedora front-end mobile e web, experiente e apaixonada por criar interfaces intuitivas e atraentes para aplicativos móveis.</p>
             <span className="inline-flex">
               <a href="https://www.instagram.com/isabellacaramigo/" className="text-gray-500" rel="noopener noreferrer" target="_blank">
@@ -107,8 +107,8 @@ export const Team = () => {
             </div>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-gray-900">Matheus Silva</h2>
-            <h3 className="text-gray-500 mb-3">Desenvolvedor Backend</h3>
-            <p className="mb-4">Desenvolvedor back-end experiente, Sua paixão é construir sistemas back-end robustos, escaláveis e seguros.</p>
+            <h3 className="text-gray-500 mb-3">Desenvolvedor Back-end</h3>
+            <p className="mb-4">Desenvolvedor Back-end experiente, Sua paixão é construir sistemas back-end robustos, escaláveis e seguros.</p>
             <span className="inline-flex">
               <a href="https://www.instagram.com/oma_theuss/" className="text-gray-500" rel="noopener noreferrer" target="_blank">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
